@@ -10,7 +10,7 @@
 @import url(../blocks/header/__link-activ/header__link-activ.css);
 /*----------------------- lead -------------------------------- */
 @import url(../blocks/lead/lead.css);
-@import url(../blocks/lead/_about/lead_about.css);
+@import url(../blocks/lead/__about/lead__about.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__sabtitle/lead__sabtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
@@ -41,6 +41,6 @@
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 /*----------------------- footer ------------------------------ */
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/_wrapper/footer_wrapper.css);
+@import url(../blocks/footer/__wrapper/footer__wrapper.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
