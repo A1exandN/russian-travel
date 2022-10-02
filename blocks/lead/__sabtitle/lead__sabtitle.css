@@ -1,0 +1,23 @@
+.lead__sabtitle {
+  max-width: 640px;
+  text-align: center;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  color: #fff;
+  margin: 0 0 64px 0;
+}
+
+@media screen and (max-width: 320px) {
+  .lead__sabtitle {
+    max-width: 288px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 40px 0;
+  }
+}

@@ -1,0 +1,33 @@
+.cover__background {
+  margin: 0 auto;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  background-size: cover;
+  height: 740px;
+  background: url(../../../img/cover-trains.jpg) center/cover no-repeat;
+  position: relative;
+}
+
+@media screen and (max-width: 320px) {
+  .cover__background {
+    max-width: 320px;
+    height: 200px;
+  }
+}
+
+.cover__background::before {
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(42, 44, 47);
+  opacity: 0.3;
+}
+
+.cover__background:hover::before {
+  opacity: 0.8;
+}
