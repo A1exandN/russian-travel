@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 1024px) {
   .place {
-    gap: 32px;
+    gap: 48px 32px;
   }
 }
 
@@ -18,7 +18,8 @@
   .place {
     grid-template-columns: 340px, 352px;
     grid-template-rows: repeat(2, auto);
-    gap: 28px;
+    gap: 48px 28px;
+    padding-bottom: 73px;
   }
 }
 
@@ -31,6 +32,7 @@
       'image'
       'text';
     gap: 32px;
+    padding-bottom: 50px;
   }
 }
 
