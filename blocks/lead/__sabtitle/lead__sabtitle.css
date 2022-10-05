@@ -1,7 +1,7 @@
 .lead__sabtitle {
   max-width: 640px;
   text-align: center;
-  font-family: 'Inter';
+  font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -19,7 +19,7 @@
 @media screen and (max-width: 320px) {
   .lead__sabtitle {
     max-width: 288px;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
