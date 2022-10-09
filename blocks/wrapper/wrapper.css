@@ -6,26 +6,5 @@
 @media screen and (max-width: 1184px) {
   .wrapper {
     width: 100%;
-
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .wrapper {
-    width: 100%;
-
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .wrapper {
-    width: 100%;
-
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .wrapper {
-    width: 100%;
   }
 }

@@ -7,19 +7,14 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: #fff;
-  margin: 8px 0 0 0;
+  margin: 4px 0 0 0;
   align-self: flex-start;
 }
 
-@media screen and (max-width: 768px) {
-  .lead__caption {
-    margin: 4px 0 0 24px;
-  }
-}
 
 @media screen and (max-width: 768px) {
   .lead__caption {
-    margin: 4px 0 0 24px;
+    margin: 0px 0 0 24px;
   }
 }
 
