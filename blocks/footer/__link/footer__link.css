@@ -19,6 +19,10 @@
     line-height: 24px;
     margin: 0 0 32px 0;
   }
+  .footer__link:last-child{
+    margin: 0;
+
+  }
 }
 
 .footer__link:last-child {

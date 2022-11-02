@@ -12,7 +12,7 @@
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__about/lead__about.css);
 @import url(../blocks/lead/__title/lead__title.css);
-@import url(../blocks/lead/__sabtitle/lead__sabtitle.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 /*----------------------- intro ------------------------------ */
